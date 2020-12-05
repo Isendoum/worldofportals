@@ -29,8 +29,6 @@ build/
 local.properties
 *.iml
 
-app/src/main/AndroidManifest.xml
-
 
 # node.js
 #
@@ -43,6 +41,7 @@ buck-out/
 \.buckd/
 *.keystore
 !debug.keystore
+secret.properties
 
 # fastlane
 #
